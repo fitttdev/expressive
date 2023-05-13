@@ -4,7 +4,8 @@
   "description": "Expressive",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "format": "prettier --write ."
   },
   "author": "Nima Yonten",
   "license": "ISC",
@@ -15,6 +16,7 @@
     "sequelize": "^6.31.1"
   },
   "devDependencies": {
+    "prettier": "^2.8.8",
     "sequelize-cli": "^6.6.0"
   }
 }
