@@ -1,0 +1,10 @@
+{
+  "development": {
+    "username": "nimaged",
+    "password": "nimaged",
+    "database": "expressive_development",
+    "host": "localhost",
+    "dialect": "postgres"
+  }
+}
+
